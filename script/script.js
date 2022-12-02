@@ -10,3 +10,4 @@ function ordenarArregloDeObjetosPorParametro(arreglo, parametro) {
         console.log(`Por favor utilice uno de los parametros validos: ${parametrosValidos.join(' - ')}`)
     }
 }
+
